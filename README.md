@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ejazahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="ejazahmad1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ejazahm51781518" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ejazahm51781518?logo=twitter&style=for-the-badge" alt="https://twitter.com/ejazahm51781518" /></a> </p>
 
-- 🌱 I’m currently learning **Back end Coding**
+- 🔭 I’m currently Working On **Markaz**
+
+- 🌱 I’m currently Learning **Back End Coding**
 
 - 💬 Ask me about **HTML, CSS, Front End Coding**
 
 - 📫 How to reach me **ejazahmad5099@gmail.com**
 
-- ⚡ Fun fact **I thin I am funny XD**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
